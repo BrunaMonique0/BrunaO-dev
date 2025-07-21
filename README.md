@@ -1,4 +1,4 @@
-## Olá! 👋 Meu nome é Bruna e sou um Desenvolvedor Full-Stack em crescimento!
+## Olá! 👋 Meu nome é Bruna e sou uma Desenvolvedor Full-Stack em crescimento!
 
 Atualmente, sou estudante de **Ciência da Computação** e estou focado em aprimorar minhas habilidades em Cloud. Meu objetivo é construir uma carreira internacional na área de tecnologia, criando projetos inovadores e contribuindo para o mundo da programação.
 
